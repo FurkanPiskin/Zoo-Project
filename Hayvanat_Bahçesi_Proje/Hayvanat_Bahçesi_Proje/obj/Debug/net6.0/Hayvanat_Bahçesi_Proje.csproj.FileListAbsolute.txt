@@ -1,0 +1,14 @@
+C:\Users\bozku\Desktop\Staj Proje\Hayvanat_Bahçesi_Proje\Hayvanat_Bahçesi_Proje\bin\Debug\net6.0\Hayvanat_Bahçesi_Proje.exe
+C:\Users\bozku\Desktop\Staj Proje\Hayvanat_Bahçesi_Proje\Hayvanat_Bahçesi_Proje\bin\Debug\net6.0\Hayvanat_Bahçesi_Proje.deps.json
+C:\Users\bozku\Desktop\Staj Proje\Hayvanat_Bahçesi_Proje\Hayvanat_Bahçesi_Proje\bin\Debug\net6.0\Hayvanat_Bahçesi_Proje.runtimeconfig.json
+C:\Users\bozku\Desktop\Staj Proje\Hayvanat_Bahçesi_Proje\Hayvanat_Bahçesi_Proje\bin\Debug\net6.0\Hayvanat_Bahçesi_Proje.dll
+C:\Users\bozku\Desktop\Staj Proje\Hayvanat_Bahçesi_Proje\Hayvanat_Bahçesi_Proje\bin\Debug\net6.0\Hayvanat_Bahçesi_Proje.pdb
+C:\Users\bozku\Desktop\Staj Proje\Hayvanat_Bahçesi_Proje\Hayvanat_Bahçesi_Proje\obj\Debug\net6.0\Hayvanat_Bahçesi_Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bozku\Desktop\Staj Proje\Hayvanat_Bahçesi_Proje\Hayvanat_Bahçesi_Proje\obj\Debug\net6.0\Hayvanat_Bahçesi_Proje.AssemblyInfoInputs.cache
+C:\Users\bozku\Desktop\Staj Proje\Hayvanat_Bahçesi_Proje\Hayvanat_Bahçesi_Proje\obj\Debug\net6.0\Hayvanat_Bahçesi_Proje.AssemblyInfo.cs
+C:\Users\bozku\Desktop\Staj Proje\Hayvanat_Bahçesi_Proje\Hayvanat_Bahçesi_Proje\obj\Debug\net6.0\Hayvanat_Bahçesi_Proje.csproj.CoreCompileInputs.cache
+C:\Users\bozku\Desktop\Staj Proje\Hayvanat_Bahçesi_Proje\Hayvanat_Bahçesi_Proje\obj\Debug\net6.0\Hayvanat_Bahçesi_Proje.dll
+C:\Users\bozku\Desktop\Staj Proje\Hayvanat_Bahçesi_Proje\Hayvanat_Bahçesi_Proje\obj\Debug\net6.0\refint\Hayvanat_Bahçesi_Proje.dll
+C:\Users\bozku\Desktop\Staj Proje\Hayvanat_Bahçesi_Proje\Hayvanat_Bahçesi_Proje\obj\Debug\net6.0\Hayvanat_Bahçesi_Proje.pdb
+C:\Users\bozku\Desktop\Staj Proje\Hayvanat_Bahçesi_Proje\Hayvanat_Bahçesi_Proje\obj\Debug\net6.0\Hayvanat_Bahçesi_Proje.genruntimeconfig.cache
+C:\Users\bozku\Desktop\Staj Proje\Hayvanat_Bahçesi_Proje\Hayvanat_Bahçesi_Proje\obj\Debug\net6.0\ref\Hayvanat_Bahçesi_Proje.dll
